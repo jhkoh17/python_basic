@@ -1,7 +1,7 @@
-----
+---
 title:"about"
 output: "html_document"
-----
+---
 # Basic code for Git
 
 ## create a new repository on the command line
