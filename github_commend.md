@@ -1,6 +1,6 @@
 ---
-title:"about"
-output:"html_document"
+title: "about"
+output: html_document
 ---
 # Basic code for Git
 
